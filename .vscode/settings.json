@@ -1,0 +1,19 @@
+{
+    
+    "cmake.sourceDirectory": "C:/Users/hp/AndroidStudioProjects/app2/flutter_namer_1/windows/flutter",
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true
+    },
+    "[dartyaml]": {
+        "editor.insertSpaces": false
+    },
+    "[flutter]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true
+    }
+}
+
